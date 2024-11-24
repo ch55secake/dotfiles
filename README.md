@@ -1,4 +1,4 @@
-### dotfiles
+# dotfiles
 
 Current configuration files for my desktop
 
