@@ -27,7 +27,14 @@ Also includes a slightly modified zsh theme, original being the: `nanotech` them
 
 ### Btop 
 
-- Default configuration entirely apart from a catpuccin_mocha theme. 
+- Default configuration entirely apart from a catpuccin_mocha theme.
+
+<details open>
+<summary>**Installation**</summary>
+<br>
+    ```bash
+        brew install btop
+    ```
 
 ### Bat 
 
