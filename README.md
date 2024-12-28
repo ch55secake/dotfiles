@@ -2,6 +2,8 @@
 
 Current configuration files for my desktop
 
+<img width="1512" alt="Screenshot 2024-12-28 at 4.19.27 am" src="https://github.com/ch55secake/dotfiles/blob/assets/Screenshot%202024-12-28%20at%204.19.27%E2%80%AFam.png">
+
 Includes configuration for below tools/customisations: 
 - sketchybar
 - neovim
