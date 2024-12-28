@@ -15,7 +15,7 @@ Also includes a slightly modified zsh theme, original being the: `nanotech` them
 
 ### Sketchybar
 
-- Configuration using sbar and mostly taken from [here]("https://github.com/FelixKratz/dotfiles/blob/master/install_sketchybar.sh")
+- Configuration using sbar and mostly taken from [here](https://github.com/FelixKratz/dotfiles/blob/master/install_sketchybar.sh)
 
 - Changes made slightly to the styling of the bar
 
