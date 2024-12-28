@@ -9,6 +9,7 @@ Includes configuration for below tools/customisations:
 - bat
 - neofetch
 - wezterm
+- ghostty
 
 Also includes a slightly modified zsh theme, original being the: `nanotech` theme. 
 
@@ -32,4 +33,6 @@ Also includes a slightly modified zsh theme, original being the: `nanotech` them
 
 - Default configuration apart from the addition of a theme and some other minor tweaks 
 
+### Ghostty 
 
+- Mostly changes to theming, font and icon, alongside zsh shell integration
