@@ -30,11 +30,10 @@ Also includes a slightly modified zsh theme, original being the: `nanotech` them
 - Default configuration entirely apart from a catpuccin_mocha theme.
 
 <details open>
-<summary>**Installation**</summary>
+<summary>Installation</summary>
 <br>
-    ```bash
-        brew install btop
-    ```
+    `brew install btop`
+<details>    
 
 ### Bat 
 
