@@ -24,21 +24,19 @@ Also includes a slightly modified zsh theme, original being the: `nanotech` them
 - Mostly default configuration using Kickstart, only new thing enabled is neotree. 
 
 - Will update this as I go along 
+- _Installation_: `brew install nvim`
 
 ### Btop 
 
 - Default configuration entirely apart from a catpuccin_mocha theme.
-
-<details open>
-<summary>Installation</summary>
-<br>
-    `brew install btop`
-<details>    
+- _Installation_: `brew install btop`
 
 ### Bat 
 
 - Default configuration apart from the addition of a theme and some other minor tweaks 
+- _Installation_: `brew install btop`
 
 ### Ghostty 
 
 - Mostly changes to theming, font and icon, alongside zsh shell integration
+- _Installation_: `brew install --cask ghostty` or a binary at [this](https://ghostty.org/download) link.
