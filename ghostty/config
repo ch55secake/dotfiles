@@ -13,3 +13,5 @@ macos-icon-frame = plastic
 unfocused-split-opacity = 1
 
 auto-update = check
+
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
